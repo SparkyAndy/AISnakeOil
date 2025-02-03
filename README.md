@@ -9,5 +9,6 @@ This is a basic repository supporting a reading group for the book _AI Snake Oil
 | 0     | Bonus track      | Andrew         |
 | 1     | Chapter 1        | Brandon        |
 | 2     | Chapter 2        | Daryl          |
-| 3     | Chapter 3        |                |
+| 3     | Chapter 3        | David          |
+| 4     | Chapter 4        | Amy            |
 
