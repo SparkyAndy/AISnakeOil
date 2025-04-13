@@ -84,7 +84,7 @@ Arvind's paper was decades old and had been written about many times - it was me
 
 In the past, you could look at the form of something to see if it was legitimate.
 
-**In the Age of Generative AI, you can no longer rely on the form of something as a proxy for whether it is correct or not.**
+_In the Age of Generative AI, you can no longer rely on the form of something as a proxy for whether it is correct or not._
 
 Great example of lawyers filing fake citations
 
@@ -94,11 +94,15 @@ Big Tech reaps the reward (automation, scale, cost reduction) and society bears 
 
 ## AI Snake Oil website
 
-Blogs and Supplementary materials.
+The authors maintain a website[^AISnakeOilWebSite] for the book containing Blogs and Supplementary materials, including exercises and discussion notes[^AISnakeOilExercises].
 
 ## REFERENCES
 
+[^AISnakeOilWebSite]
+    https://www.aisnakeoil.com/ - "Debunking AI hype. The book gives you foundational knowledge and the newsletter covers new developments."
 
+[^AISnakeOilExercises]	
+	https://www.aisnakeoil.com/p/ai-snake-oil-exercises-and-discussion
  
 
 
