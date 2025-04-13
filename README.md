@@ -7,7 +7,7 @@ This is a basic repository supporting a reading group for the book _AI Snake Oil
 | Week  | Spotify playlist | Session Leader |
 |------ |------------------|----------------|
 | 0     | Bonus track      | Andrew         |
-| 1     | Chapter 1        | Brandon        |
+| 1     | [Chapter 1](Chapter1-Introduction)        | Brandon        |
 | 2     | Chapter 2        | Daryl          |
 | 3     | Chapter 3        | David          |
 | 4     | Chapter 4 i      | Amy            |
@@ -18,4 +18,6 @@ This is a basic repository supporting a reading group for the book _AI Snake Oil
 | 9     | Chapter 7        | Karthik        |
 | 10    | Chapter 8        | Richard        |
 | 11    | Whole Book       | Andrew         |
+
+
 
