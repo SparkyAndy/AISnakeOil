@@ -98,10 +98,10 @@ The authors maintain a website[^AISnakeOilWebSite] for the book containing Blogs
 
 ## REFERENCES
 
-[^AISnakeOilWebSite]
+[^AISnakeOilWebSite]:
     https://www.aisnakeoil.com/ - "Debunking AI hype. The book gives you foundational knowledge and the newsletter covers new developments."
 
-[^AISnakeOilExercises]	
+[^AISnakeOilExercises]:	
 	https://www.aisnakeoil.com/p/ai-snake-oil-exercises-and-discussion
  
 
