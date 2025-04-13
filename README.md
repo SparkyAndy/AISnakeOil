@@ -4,20 +4,20 @@ This is a basic repository supporting a reading group for the book _AI Snake Oil
 
 ## Discussion sessions - Google Meetme
 
-| Week  | Spotify playlist | Session Leader |
-|------ |------------------|----------------|
-| 0     | Bonus track      | Andrew         |
-| 1     | [Chapter 1](Chapter1-Introduction)        | Brandon        |
-| 2     | Chapter 2        | Daryl          |
-| 3     | Chapter 3        | David          |
-| 4     | Chapter 4 i      | Amy            |
-| 5     | Chapter 4 ii     | Simon          |
-| 6     | Chapter 5        | Joe            |
-| 7     | Chapter 6 i      | Jake           |
-| 8     | Chapter 6 ii     | Kara           |
-| 9     | Chapter 7        | Karthik        |
-| 10    | Chapter 8        | Richard        |
-| 11    | Whole Book       | Andrew         |
+| Week  | Spotify playlist                                      | Session Leader |
+|------ |-------------------------------------------------------|----------------|
+| 0     | [Bonus track](BonusTrack)                             | Andrew         |
+| 1     | [Chapter 1](Chapter1-Introduction)                    | Brandon        |
+| 2     | [Chapter 2](Chapter2-HowPredictiveAIGoesWrong)        | Daryl          |
+| 3     | [Chapter 3](Chapter3-WhyCantAIPredictTheFuture)       | David          |
+| 4     | [Chapter 4 i](Chapter4-TheLongRoadToGenerativeAI)     | Amy            |
+| 5     | [Chapter 4 ii](Chapter4-TheLongRoadToGenerativeAI)    | Simon          |
+| 6     | [Chapter 5](Chapter5-IsAdvancedAIAnExistentialThreat) | Joe            |
+| 7     | [Chapter 6 i](Chapter6-WhyCantAIFixSocialMedia)       | Jake           |
+| 8     | [Chapter 6 ii](Chapter6-WhyCantAIFixSocialMedia)      | Kara           |
+| 9     | [Chapter 7](Chapter7-WhyDoMythsAboutAIPersist)        | Karthik        |
+| 10    | [Chapter 8](Chapter8-WhereDoWeGoFromHere)             | Richard        |
+| 11    | Whole Book                                            | Andrew         |
 
 
 
