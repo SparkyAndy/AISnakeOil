@@ -19,6 +19,10 @@ This is a basic repository supporting a reading group for the book _AI Snake Oil
 | 10    | [Chapter 8](Chapter8-WhereDoWeGoFromHere)             | Richard        |
 | 11    | [Whole Book](WholeBook)                               | Andrew         |
 
+## Glossary
+
+We maintain a [Glossary](Glossary) of terms used in the book, for example the author's definition of "AI Snake Oil".
+
 ## Book Website, Blogs and Supplementary Material
 
 The authors maintain a website[^AISnakeOilWebSite] for the book containing Blogs and Supplementary materials, including exercises and discussion notes for each chapter[^AISnakeOilExercises].
