@@ -2,6 +2,8 @@
 
 This is a basic repository supporting a reading group for the book _AI Snake Oil: What Artificial Intelligence Can Do, What It Can't and How to Tell the Difference_[^AISnakeOilBook] by Arvind Narayanan and Sayash Kapoor published by Princeton University Press[^PUP].
 
+![AI Snake Oil Cover](images/AISnakeOilCover.jpg)
+
 ## Discussion sessions - Google Meetme
 
 | Week  | Spotify playlist                                      | Session Leader |
