@@ -4,7 +4,7 @@
 
 The publishers - Princeton University Press (PUP) - website for the book has open access to the _Introduction_ chapter[^AISnakeOilIntroduction], table of contents and index. 
 
-![The landscape of AI snake oil, hype and harms, showing a few illustrative applications.](images/Figure1_2.png)
+![The landscape of AI snake oil, hype and harms, showing a few illustrative applications.](../images/Figure1_2.png)
 
 ## Pre-reading for the Audiobook Club session on Chapter 1
 
