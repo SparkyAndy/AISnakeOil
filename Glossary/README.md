@@ -8,6 +8,10 @@
 
 - **Generative AI** - Automate _tasks_ where there are endless right answers and each right answer is right in it's own way. When the right answers are endless, you need to change the paradigm to prove Return on Investment (ROI).
 
+## From _AI Snake Oil_[^AISnakeOilBook]
+
+- **AI Snake Oil** - AI that does not and cannot work as advertised.
+
 ## REFERENCES
 
 [^AISnakeOilBook]:
