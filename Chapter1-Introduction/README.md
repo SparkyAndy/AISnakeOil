@@ -14,7 +14,7 @@ We reproduce *Figure 1.2* _The landscape of AI snake oil, hype and harms, showin
 
 - _Cheating detection_:
 
-- _Code generation_ aka _vibe coding_: Cassie Kozyrkov has written a brilliant substack article _What is Vibe Coding: why you wouldn't want to do it and why you would ..._[^WhatIsVibeCoding] in which she _"walk(s) you through an example and present(s) the case for vibe coding and the case against it, analyzed from the POVs of the novice and the expert"_. My favourite quote is: _"Vibe coding is like playing archeologist in someone else's mistakes"_[^VibeCodingLinkedIn]. The key point is: _"Using AI to generate code for you doesn't eliminate the work—it just shifts it from writing to explaining and reviewing, which isn't always a win."_ Arvind and Sayash's argument that _"if it takes you less time to review the code than to write it, then code generation is a win"_ is a good point but it overlooks the potential harms: we'll return to this later.
+- _Code generation_ aka _vibe coding_: _"*Vibe coding*, a term coined by Andrej Karpathy in February 2025, describes an increasingly popular approach to writing software: express the code you want in a few sentences to an AI system like ChatGPT or Claude, then polish and (hopefully!) test the generated result"_[^VibeCodingPost]. Cassie Kozyrkov has written a brilliant substack article _What is Vibe Coding: why you wouldn't want to do it and why you would ..._[^WhatIsVibeCoding] in which she _"walk(s) you through an example and present(s) the case for vibe coding and the case against it, analyzed from the POVs of the novice and the expert"_. My favourite quote is: _"Vibe coding is like playing archeologist in someone else's mistakes"_[^VibeCodingLinkedIn]. The key point is: _"Using AI to generate code for you doesn't eliminate the work—it just shifts it from writing to explaining and reviewing, which isn't always a win."_ Arvind and Sayash's argument that _"if it takes you less time to review the code than to write it, then code generation is a win"_ is a good point but it overlooks the potential harms: we'll return to this later.
 
 - _Content moderation_:
 
@@ -44,6 +44,10 @@ Brandon's pre-reading notes for the reading group discussion on Chapter 1 _Intro
 [^VibeCodingLinkedIn]:
     Kozyrkov C. _Vibe coding is like playing archeologist in someone else's mistakes_, 
 	https://www.linkedin.com/posts/kozyrkov_vibe-coding-is-like-playing-archeologist-activity-7318623860679991297-jbsp/
+	
+[^VibeCodingPost]:
+	Kozyrkov C. _Vibe Coding_,
+	https://www.linkedin.com/posts/kozyrkov_ai-vibecoding-technology-activity-7313601484217044994-hqKV/
 	
 [^YourFaceBelongsToUs]:
     Hill K. _Your Face Belongs to Us: A Secretive Startup's Quest to End Privacy as We Know It_. New York: Random House; 2023.
