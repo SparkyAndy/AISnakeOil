@@ -14,12 +14,7 @@ We reproduce *Figure 1.2* _The landscape of AI snake oil, hype and harms, showin
 
 - _Cheating detection_:
 
-- _Code generation_ aka _vibe coding_: Cassie Kozyrkov has written a brilliant substack article _What is Vibe Coding: why you wouldn't want to do it and why you would ..._[^WhatIsVibeCoding]
-
-_Vibe coding is like playing archeologist in someone else's mistakes_[^VibeCodingLinkedIn]
-
-_Using AI to generate code for you doesn't eliminate the work—it just shifts it from writing to explaining and reviewing, which isn't always a win._
-
+- _Code generation_ aka _vibe coding_: Cassie Kozyrkov has written a brilliant substack article _What is Vibe Coding: why you wouldn't want to do it and why you would ..._[^WhatIsVibeCoding] in which she _"walk(s) you through an example and present(s) the case for vibe coding and the case against it, analyzed from the POVs of the novice and the expert"_. My favourite quote is: _"Vibe coding is like playing archeologist in someone else's mistakes"_[^VibeCodingLinkedIn]. The key point is: _"Using AI to generate code for you doesn't eliminate the work—it just shifts it from writing to explaining and reviewing, which isn't always a win."_ Arvind and Sayash's argument that _"if it takes you less time to review the code than to write it, then code generation is a win"_ is a good point but it overlooks the potential harms: we'll return to this later.
 
 - _Content moderation_:
 
