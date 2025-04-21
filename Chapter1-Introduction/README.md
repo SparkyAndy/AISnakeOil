@@ -4,13 +4,33 @@
 
 The publisher's - Princeton University Press (PUP) - website for the book has open access to the _Introduction_ chapter, the book's table of contents and the book's index[^AISnakeOilIntroduction].
 
+## The Landscape of AI Snake Oil, Hype and Harms
+
 We reproduce *Figure 1.2* _The landscape of AI snake oil, hype and harms, showing a few illustrative applications_. 
 
 ![The landscape of AI snake oil, hype and harms, showing a few illustrative applications.](../images/Figure1_2.png)
 
-## Pre-reading notes for the Audiobook Club discussion session on Chapter 1
+- _Autocomplete_: 
 
-Brandon's pre-reading for the group discussion on Chapter 1 - Introduction - is in the [PDF file AISnakeOilChapter1Brandon](AISnakeOilChapter1Brandon.pdf).
+- _Cheating detection_:
+
+- _Code generation_ aka _vibe coding_: 
+
+- _Content moderation_:
+
+- _Criminal risk prediction_:
+
+- _Face recognition for mass surveillance_: [^YourFaceBelongsToUs]
+
+- _Image generation for stock photography_:
+
+- _Predicting civil wars_
+
+- _Video interviews_:
+
+## Pre-reading notes for the reading group discussionon Chapter 1
+
+Brandon's pre-reading notes for the reading group discussion on Chapter 1 _Introduction_ is in the [PDF file AISnakeOilChapter1Brandon](AISnakeOilChapter1Brandon.pdf).
 
 ## REFERENCES
 
