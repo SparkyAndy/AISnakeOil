@@ -24,7 +24,7 @@ We reproduce *Figure 1.2* _The landscape of AI snake oil, hype and harms, showin
 
 - _Image generation for stock photography_:
 
-- _Predicting civil wars_
+- _Predicting civil wars_:
 
 - _Video interviews_:
 
@@ -50,7 +50,7 @@ Brandon's pre-reading notes for the reading group discussion on Chapter 1 _Intro
 	https://www.linkedin.com/posts/kozyrkov_ai-vibecoding-technology-activity-7313601484217044994-hqKV/
 	
 [^YourFaceBelongsToUs]:
-    Hill K. _Your Face Belongs to Us: A Secretive Startup's Quest to End Privacy as We Know It_. New York: Random House; 2023.
+    Hill K. _Your Face Belongs to Us: The Secretive AI Startup Dismantling Your Privacy_. London: Simon & Schuster; 2023.
 	
 	
 
