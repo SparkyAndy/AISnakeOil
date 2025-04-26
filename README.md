@@ -30,7 +30,7 @@ This is a basic repository supporting a reading group for the book _AI Snake Oil
 - [Chapter 5 - Is Advanced AI An Existential Threat](Chapter5-IsAdvancedAIAnExistentialThreat) - blah
 - [Chapter 6 - Why Can't AI Fix Social Media](Chapter6-WhyCantAIFixSocialMedia) - blah
 - [Chapter 7 - Why Do Myths About AI Persist](Chapter7-WhyDoMythsAboutAIPersist) - blah
-- [Chapter 8](Chapter8-WhereDoWeGoFromHere) - blah
+- [Chapter 8 - Where Do We Go From Here](Chapter8-WhereDoWeGoFromHere) - blah
 
 - [Bonus track](BonusTrack) - blah
 
