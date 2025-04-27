@@ -38,19 +38,19 @@ Brandon's pre-reading notes for the reading group discussion on Chapter 1 _Intro
 	https://press.princeton.edu/books/hardcover/9780691249131/ai-snake-oil#preview
 	
 [^WhatIsVibeCoding]:
-    Kozyrkov C. _What is Vibe Coding: why you wouldn't want to do it and why you would ..._, *Decision Intelligence*, 31 March 2025.
+    Cassie Kozyrkov _What is Vibe Coding: why you wouldn't want to do it and why you would ..._, **Decision Intelligence**, 31 March 2025.
 	https://decision.substack.com/p/what-is-vibe-coding
 	
 [^VibeCodingLinkedIn]:
-    Kozyrkov C. _Vibe coding is like playing archeologist in someone else's mistakes_, 
+    Cassie Kozyrkov _Vibe coding is like playing archeologist in someone else's mistakes_, 
 	https://www.linkedin.com/posts/kozyrkov_vibe-coding-is-like-playing-archeologist-activity-7318623860679991297-jbsp/
 	
 [^VibeCodingPost]:
-	Kozyrkov C. _Vibe Coding_,
+	Cassie Kozyrkov _Vibe Coding_,
 	https://www.linkedin.com/posts/kozyrkov_ai-vibecoding-technology-activity-7313601484217044994-hqKV/
 	
 [^YourFaceBelongsToUs]:
-    Hill K. _Your Face Belongs to Us: The Secretive AI Startup Dismantling Your Privacy_. London: Simon & Schuster; 2023.
+    Kashmir Hill _Your Face Belongs to Us: The Secretive AI Startup Dismantling Your Privacy_. **London: Simon & Schuster**; 2023.
 	
 	
 

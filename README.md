@@ -49,7 +49,7 @@ The publishers - Princeton University Press (PUP) - maintain a website[^PUP] for
 ## REFERENCES
 
 [^AISnakeOilBook]:
-    Arvind Narayanan and Sayesh Kapoor **AI Snake Oil**: _What Artificial Intelligence Can Do, What It Can't, and How to Tell the Difference_ Princeton University Press 24 September 2024 ISBN 9780691249131
+    Arvind Narayanan and Sayesh Kapoor _AI Snake Oil: What Artificial Intelligence Can Do, What It Can't, and How to Tell the Difference_ **Princeton University Press** 24 September 2024 ISBN 9780691249131
 	
 [^PUP]:       
     https://press.princeton.edu/books/hardcover/9780691249131/ai-snake-oil

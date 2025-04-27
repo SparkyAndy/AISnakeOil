@@ -17,7 +17,7 @@
 ## REFERENCES
 
 [^DataCharlatan]:
-    Cassie Kozyrkov **How to spot a data charlatan**: _Tips for identifying fakers and neutralizing their snake oil_ **Medium** 9 October 2020 https://medium.com/data-science/how-to-spot-a-data-charlatan-85785c991433
+    Cassie Kozyrkov _How to spot a data charlatan: Tips for identifying fakers and neutralizing their snake oil_ **Medium** 9 October 2020 https://medium.com/data-science/how-to-spot-a-data-charlatan-85785c991433
 	
 	Article best reached via LinkedIn post (access full article without subscribing) https://www.linkedin.com/posts/kozyrkov_how-to-spot-a-data-charlatan-activity-6980955191973928960-l43f
 	
