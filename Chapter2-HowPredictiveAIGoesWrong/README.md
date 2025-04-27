@@ -11,7 +11,7 @@ Daryl's pre-reading notes for the reading group discussion on Chapter 2 _How Pre
 ## REFERENCES
 
 [^FairnessAndMachineLearning]:
-    Solon Barocas, Moritz Hardt and Arvind Narayanan _Fairness and Machine Learning: Limitations and Opportunities_. **The MIT Press** 2023 ISBN: 9780262048613
+    Solon Barocas, Moritz Hardt and Arvind Narayanan _Fairness and Machine Learning: Limitations and Opportunities_ **The MIT Press** 2023 ISBN: 9780262048613
 	
 [^FairMLBookWebsite]:
     https://fairmlbook.org Open Access edition of _Fairness and Machine Learning_[^FairnessAndMachineLearning] (PDF)
