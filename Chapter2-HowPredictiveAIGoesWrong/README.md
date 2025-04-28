@@ -1,5 +1,27 @@
 # Chapter 2 - How Predictive AI Goes Wrong
 
+## TLDR - Too Long, Didn't Read
+
+## Fairness and Machine Learning
+
+[^FairnessAndMachineLearning]
+[^FairMLBookWebsite]
+[^FairMLMITPressWebsite]
+
+## Bad Data Science 
+
+[^WeaponsOfMathDestruction]
+[^TechnicallyWrong]
+[^AutomatingInequality]
+
+## Predictive Analytics
+
+[^TheSignalAndTheNoise]
+
+## Hiring Algorithms
+
+[^TheAlgorithm]
+
 ## Pre-reading notes for the reading group discussionon Chapter 2
 
 Daryl's pre-reading notes for the reading group discussion on Chapter 2 _How Predictive AI Goes Wrong_ is in the [PDF file AISnakeOilChapter2Daryl](AISnakeOilChapter2Daryl.pdf).
@@ -27,10 +49,10 @@ Daryl's pre-reading notes for the reading group discussion on Chapter 2 _How Pre
 	
 [^AutomatingInequality]:
     Virginia Eubanks _Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor_ **New York: St. Martin's Press** 2017 ISBN: 9781250074317
-	
-[^TheAlgorithm]:
-    Hilke Schellmann _The Algorithm: How AI Can Hijack Your Career and Steal Your Future_ **London: Hurst & Company** 2024 ISBN: 9781805260981
 
 [^TheSignalAndTheNoise]:
     Nate Silver _The Signal and the Noise: The Art and Science of Prediction_ **Penguin Books: Allen Lane** 2012 ISBN: 9781846147524
+	
+[^TheAlgorithm]:
+    Hilke Schellmann _The Algorithm: How AI Can Hijack Your Career and Steal Your Future_ **London: Hurst & Company** 2024 ISBN: 9781805260981
 	
