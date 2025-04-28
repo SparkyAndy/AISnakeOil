@@ -17,6 +17,7 @@
 ## Predictive Analytics
 
 [^TheSignalAndTheNoise]
+[^TheArtOfStatistics]
 
 ## Hiring Algorithms
 
@@ -52,6 +53,9 @@ Daryl's pre-reading notes for the reading group discussion on Chapter 2 _How Pre
 
 [^TheSignalAndTheNoise]:
     Nate Silver _The Signal and the Noise: The Art and Science of Prediction_ **Penguin Books: Allen Lane** 2012 ISBN: 9781846147524
+
+[^TheArtOfStatistics]:
+    David Spiegelhalter _The Art of Statistics: Learning from Data_ **Penguin Books: Pelican** 2019 ISBN: 9780241398630 
 	
 [^TheAlgorithm]:
     Hilke Schellmann _The Algorithm: How AI Can Hijack Your Career and Steal Your Future_ **London: Hurst & Company** 2024 ISBN: 9781805260981
