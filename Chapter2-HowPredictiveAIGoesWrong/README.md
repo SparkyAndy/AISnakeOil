@@ -1,6 +1,6 @@
 # Chapter 2 - How Predictive AI Goes Wrong
 
-![XKCD AI Hiring Algorithm](images/ai_hiring_algorithm.png)
+![XKCD AI Hiring Algorithm](../images/ai_hiring_algorithm.png)
 
 ## TLDR - Too Long, Didn't Read
 
