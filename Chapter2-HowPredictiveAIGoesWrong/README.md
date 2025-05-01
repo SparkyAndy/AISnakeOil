@@ -1,5 +1,7 @@
 # Chapter 2 - How Predictive AI Goes Wrong
 
+![XKCD AI Hiring Algorithm](images/ai_hiring_algorithm.png)
+
 ## TLDR - Too Long, Didn't Read
 
 ## Fairness and Machine Learning
@@ -32,6 +34,12 @@ Daryl's pre-reading notes for the reading group discussion on Chapter 2 _How Pre
 [PDF file AIPredictiveAnalyticsRealityCheck](AIPredicativeAnalyticsRealityCheck.pdf).
 
 ## REFERENCES
+
+[^XKCD2237]
+    https://xkcd.com/2237/
+
+[^XKCDExplained2237]
+    https://www.explainxkcd.com/wiki/index.php/2237:_AI_Hiring_Algorithm
 
 [^FairnessAndMachineLearning]:
     Solon Barocas, Moritz Hardt and Arvind Narayanan _Fairness and Machine Learning: Limitations and Opportunities_ **The MIT Press** 2023 ISBN: 9780262048613
