@@ -41,10 +41,10 @@ Daryl's pre-reading notes for the reading group discussion on Chapter 2 _How Pre
 
 ## REFERENCES
 
-[^XKCD2237]
+[^XKCD2237]:
     https://xkcd.com/2237/
 
-[^XKCDExplained2237]
+[^XKCDExplained2237]:
     https://www.explainxkcd.com/wiki/index.php/2237:_AI_Hiring_Algorithm
 
 [^FairnessAndMachineLearning]:
