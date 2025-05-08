@@ -4,6 +4,10 @@
 
 ## TLDR - Too Long, Didn't Read
 
+- Creates false impression that Predictive AI can never work
+- Case studies are simply examples of bad data science
+- Alarming that consequential analytics were not evaluated before being deployed!
+
 ## Fairness and Machine Learning
 
 [^FairnessAndMachineLearning]
@@ -23,6 +27,8 @@
 
 ## Hiring Algorithms
 
+[^XKCD2237]
+[^XKCDExplained2237]
 [^TheAlgorithm]
 
 ## Pre-reading notes for the reading group discussionon Chapter 2
